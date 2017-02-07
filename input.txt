@@ -1,0 +1,7 @@
+orange,56.3,3,1
+strawberry,45,2,2
+banana,123,4,3
+apple,12.3,5,6
+cherry,14,4,1
+peachmango,45,3,5
+grape,23,4,3

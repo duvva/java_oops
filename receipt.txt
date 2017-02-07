@@ -1,0 +1,6 @@
+Person Name is :duvva
+Bank name is: Bofa
+.................The Items you Brought .................
+Item_Name   Item_Price  Item_Priority  Item_Quantity
+----------------------------------------------------------
+apple		$12.3		6		2
